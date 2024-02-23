@@ -31,3 +31,8 @@ body {
     text-wrap: balance;
   }
 }
+
+._home {
+  background-color: black;
+  color: white;
+}
